@@ -18,7 +18,10 @@
 		},
 		{
 			"Name": "RootMovement",
-			"Enabled": true
+			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
